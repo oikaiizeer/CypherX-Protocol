@@ -1,5 +1,7 @@
 # CypherX - Advanced DeFi Analytics Platform
 
+Original file line number	Diff line number	Diff line change
+@@ -7,7 +7,7 @@ Script Python untuk mengirim transaksi ke banyak alamat secara otomatis 
 CypherX is a comprehensive decentralized finance (DeFi) analytics and trading platform built on the Base network. The platform provides real-time market data, advanced trading tools, wallet analytics, and a sophisticated multi-DEX swap system.
 
 ## 🚀 Features
